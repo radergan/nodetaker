@@ -13,6 +13,8 @@ Keep track of your notes!
 ## About
 This app will use node.js and express to facilitate saving, viewing and deleting notes in JSON. It demonstrates the basics of routing in node.
 
+[![Go to the app](app.jpg)](http://node-taker.herokuapp.com/)
+
 ## Credits
 Project created by @Radergan. 
 
