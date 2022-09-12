@@ -1,7 +1,7 @@
 
 # NodeTaker
 
-Keep track of your notes!
+Exercise in writing nodeJS endpoints and using them in the context of a minimal note-taking web application
 
 ## Table of Contents
 * [About](#about)
